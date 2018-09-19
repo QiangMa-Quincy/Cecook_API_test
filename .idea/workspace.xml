@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/case/test_02.py" line="14" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fade0d9c-41e7-465a-b0d1-5c75a1c59fd5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_04_py.coverage" NAME="Unittests in test_04.py Coverage Results" MODIFIED="1536720970585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_08_handleCoupon_test_handleCoupon_error_cid.coverage" NAME="Unittests for test_08.handleCoupon.test_handleCoupon_error_cid Coverage Results" MODIFIED="1536738195345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_11_ajaxCouponDetailByCode_test_ajaxCouponDetailByCode_Null.coverage" NAME="Unittests for test_11.ajaxCouponDetailByCode.test_ajaxCouponDetailByCode_Null Coverage Results" MODIFIED="1536746133110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_03_py.coverage" NAME="Unittests in test_03.py Coverage Results" MODIFIED="1536720524835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_02_py.coverage" NAME="Unittests in test_02.py Coverage Results" MODIFIED="1536720353005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember_test_createMember_Null_phone.coverage" NAME="Unittests for test_05.createMember.test_createMember_Null_phone Coverage Results" MODIFIED="1536723066225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember_test_createMember_Null.coverage" NAME="Unittests for test_05.createMember.test_createMember_Null Coverage Results" MODIFIED="1536722503950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_06_CouponListByPhone_py.coverage" NAME="Unittests in test_06_CouponListByPhone.py Coverage Results" MODIFIED="1536732616640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_Null.coverage" NAME="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_Null Coverage Results" MODIFIED="1536745919298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember.coverage" NAME="Unittests for test_05.createMember Coverage Results" MODIFIED="1536544558724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_02_fineMemberInfo_test_findMemberInfo_Null_phone.coverage" NAME="Unittests for test_02.fineMemberInfo.test_findMemberInfo_Null_phone Coverage Results" MODIFIED="1536720454506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$mql_member.coverage" NAME="mql_member Coverage Results" MODIFIED="1536808321981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_06_CouponListByPhone_ajaxCouponListByPhone_test_ajaxCouponListByPhone_errorPhone.coverage" NAME="Unittests for test_06_CouponListByPhone.ajaxCouponListByPhone.test_ajaxCouponListByPhone_errorPhone Coverage Results" MODIFIED="1536732827814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_is_used_1.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_is_used_1 Coverage Results" MODIFIED="1536741433735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_is_used_limit_price.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_is_used_limit_price Coverage Results" MODIFIED="1536742063238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_07_ajaxCouponListByPhone_test_ajaxCouponListByPhone_ok.coverage" NAME="Unittests for test_07.ajaxCouponListByPhone.test_ajaxCouponListByPhone_ok Coverage Results" MODIFIED="1536733908194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_11_ajaxCouponDetailByCode_test_ajaxCouponDetailByCode_ok.coverage" NAME="Unittests for test_11.ajaxCouponDetailByCode.test_ajaxCouponDetailByCode_ok Coverage Results" MODIFIED="1536745969165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_07_ajaxCouponListByPhone_test_ajaxCouponListByPhone_all_data.coverage" NAME="Unittests for test_07.ajaxCouponListByPhone.test_ajaxCouponListByPhone_all_data Coverage Results" MODIFIED="1536735721433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_15_commoditySynchronization_py.coverage" NAME="Unittests in test_15_commoditySynchronization.py Coverage Results" MODIFIED="1536658248584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$mqlmember.coverage" NAME="mqlmember Coverage Results" MODIFIED="1536808778943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$tokenfile.coverage" NAME="tokenfile Coverage Results" MODIFIED="1536301315833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember_test_createMember_ok.coverage" NAME="Unittests for test_05.createMember.test_createMember_ok Coverage Results" MODIFIED="1536808761635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_03_updateMemberInfo_test_updateMemberInfo_ok.coverage" NAME="Unittests for test_03.updateMemberInfo.test_updateMemberInfo_ok Coverage Results" MODIFIED="1536720581206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_13_orderCencel_orderCencel_test_orderCencel_Null.coverage" NAME="Unittests for test_13_orderCencel.orderCencel.test_orderCencel_Null Coverage Results" MODIFIED="1536747288633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_09_py.coverage" NAME="Unittests in test_09.py Coverage Results" MODIFIED="1536824390949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_handleCoupon_test_standardWriteoff_1.coverage" NAME="Unittests for test_09.handleCoupon.test_standardWriteoff_1 Coverage Results" MODIFIED="1536636853028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_08_handleCoupon_test_handleCoupon_errorPhone.coverage" NAME="Unittests for test_08.handleCoupon.test_handleCoupon_errorPhone Coverage Results" MODIFIED="1536737859229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_13_orderCencel_orderCencel_test_orderCencel_error_phone.coverage" NAME="Unittests for test_13_orderCencel.orderCencel.test_orderCencel_error_phone Coverage Results" MODIFIED="1536747232854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_04_getMemberInfo.coverage" NAME="Unittests for test_04.getMemberInfo Coverage Results" MODIFIED="1536541378056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember_test_createMember_exists.coverage" NAME="Unittests for test_05.createMember.test_createMember_exists Coverage Results" MODIFIED="1536721822138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_12_createOrderInfo_py.coverage" NAME="Unittests in test_12_createOrderInfo.py Coverage Results" MODIFIED="1536654165255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_03_updateMemberInfo.coverage" NAME="Unittests for test_03.updateMemberInfo Coverage Results" MODIFIED="1536309690491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_02_fineMemberInfo_test_findMemberInfo_Null.coverage" NAME="Unittests for test_02.fineMemberInfo.test_findMemberInfo_Null Coverage Results" MODIFIED="1536720255409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_13_orderCencel_py.coverage" NAME="Unittests in test_13_orderCencel.py Coverage Results" MODIFIED="1536654194758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_1.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_1 Coverage Results" MODIFIED="1536656500145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_03_updateMemberInfo_test_updateMemberInfo_errorPhone.coverage" NAME="Unittests for test_03.updateMemberInfo.test_updateMemberInfo_errorPhone Coverage Results" MODIFIED="1536720803473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_not_start.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_not_start Coverage Results" MODIFIED="1536744887146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_handleCoupon_test_handleCoupon_ok.coverage" NAME="Unittests for test_09.handleCoupon.test_handleCoupon_ok Coverage Results" MODIFIED="1536636773073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_06_CouponListByPhone_ajaxCouponListByPhone.coverage" NAME="Unittests for test_06_CouponListByPhone.ajaxCouponListByPhone Coverage Results" MODIFIED="1536546916982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_02_fineMemberInfo.coverage" NAME="Unittests for test_02.fineMemberInfo Coverage Results" MODIFIED="1536720432465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok Coverage Results" MODIFIED="1536824378978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_15_commoditySynchronization_commoditySynchronization_test_commoditySynchronization_ok.coverage" NAME="Unittests for test_15_commoditySynchronization.commoditySynchronization.test_commoditySynchronization_ok Coverage Results" MODIFIED="1536817080057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_07_ajaxCouponListByPhone.coverage" NAME="Unittests for test_07.ajaxCouponListByPhone Coverage Results" MODIFIED="1536549355068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_08_handleCoupon_test_handleCoupon_ok.coverage" NAME="Unittests for test_08.handleCoupon.test_handleCoupon_ok Coverage Results" MODIFIED="1536738495785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_12_createOrderInfo_createOrderInfo_test_createOrderInfo_ok.coverage" NAME="Unittests for test_12_createOrderInfo.createOrderInfo.test_createOrderInfo_ok Coverage Results" MODIFIED="1536746399288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_10_py.coverage" NAME="Unittests in test_10.py Coverage Results" MODIFIED="1536635830338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_06_CouponListByPhone_ajaxCouponListByPhone_test_ajaxCouponListByPhone_ok.coverage" NAME="Unittests for test_06_CouponListByPhone.ajaxCouponListByPhone.test_ajaxCouponListByPhone_ok Coverage Results" MODIFIED="1536733853691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_14_orderRead_orderRead.coverage" NAME="Unittests for test_14_orderRead.orderRead Coverage Results" MODIFIED="1536747309661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1536820053891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_04_getMemberInfo_test_getMemberInfo_ok.coverage" NAME="Unittests for test_04.getMemberInfo.test_getMemberInfo_ok Coverage Results" MODIFIED="1536719494370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_08_handleCoupon_test_handleCoupon_errorid.coverage" NAME="Unittests for test_08.handleCoupon.test_handleCoupon_errorid Coverage Results" MODIFIED="1536737956980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_tokenfile_Token.coverage" NAME="Unittests for tokenfile.Token Coverage Results" MODIFIED="1536215734473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1536305722143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_02__py.coverage" NAME="Unittests in test_02_会员查询接口.py Coverage Results" MODIFIED="1536305924470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_in_test_14_orderRead_py.coverage" NAME="Unittests in test_14_orderRead.py Coverage Results" MODIFIED="1536657160097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_12_createOrderInfo_createOrderInfo.coverage" NAME="Unittests for test_12_createOrderInfo.createOrderInfo Coverage Results" MODIFIED="1536646902971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_15_commoditySynchronization_commoditySynchronization.coverage" NAME="Unittests for test_15_commoditySynchronization.commoditySynchronization Coverage Results" MODIFIED="1536817495837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_14_orderRead_orderRead_test_orderRead_ok.coverage" NAME="Unittests for test_14_orderRead.orderRead.test_orderRead_ok Coverage Results" MODIFIED="1536655369823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_05_createMember_test_createMember_Null_name.coverage" NAME="Unittests for test_05.createMember.test_createMember_Null_name Coverage Results" MODIFIED="1536722984326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_storeId.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_storeId Coverage Results" MODIFIED="1536744538824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_ok.coverage" NAME="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok Coverage Results" MODIFIED="1536824373250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_02__fineMemberInfo.coverage" NAME="Unittests for test_02_会员查询接口.fineMemberInfo Coverage Results" MODIFIED="1536305609482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$test.coverage" NAME="test Coverage Results" MODIFIED="1536306414443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$qymql.coverage" NAME="qymql Coverage Results" MODIFIED="1536717567121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_13_orderCencel_orderCencel_test_orderCencel_ok.coverage" NAME="Unittests for test_13_orderCencel.orderCencel.test_orderCencel_ok Coverage Results" MODIFIED="1536652418865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_09_standardWriteoff_test_standardWriteoff_error_time.coverage" NAME="Unittests for test_09.standardWriteoff.test_standardWriteoff_error_time Coverage Results" MODIFIED="1536745061998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_11_ajaxCouponDetailByCode_test_ajaxCouponDetailByCode_error_code.coverage" NAME="Unittests for test_11.ajaxCouponDetailByCode.test_ajaxCouponDetailByCode_error_code Coverage Results" MODIFIED="1536746067643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$mysqlgood.coverage" NAME="mysqlgood Coverage Results" MODIFIED="1536817319768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_error_code.coverage" NAME="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_error_code Coverage Results" MODIFIED="1536745309504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/cecook_maqiang$Unittests_for_test_02_fineMemberInfo_test_findMemberInfo_ok.coverage" NAME="Unittests for test_02.fineMemberInfo.test_findMemberInfo_ok Coverage Results" MODIFIED="1536807939205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1807685067">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="int" value="3" />
+          <entry key="mql_member" value="1" />
+          <entry key="py" value="130" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="130" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="int" value="82" />
+          <entry key="mql_member" value="33" />
+          <entry key="py" value="5074" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="82" />
+          <entry key="Python" value="5107" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="e#81#90#0" expanded="true" />
+                <marker date="1536659236594" expanded="true" signature="239:240" ph="..." />
+                <marker date="1536659236594" expanded="true" signature="291:292" ph="..." />
+                <marker date="1536659236594" expanded="true" signature="734:735" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/test_09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="140" column="39" lean-forward="true" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
+              <folding>
+                <element signature="e#369#380#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_08.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_05.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1206">
+              <caret line="71" column="61" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="61" />
+              <folding>
+                <element signature="e#47#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/test_12_createOrderInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="972">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wb</find>
+      <find>open</find>
+      <find>mqlmember</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/__init__.py" />
+        <option value="$PROJECT_DIR$/config/cfg.int" />
+        <option value="$PROJECT_DIR$/config/readConfig.py" />
+        <option value="$PROJECT_DIR$/common/logger.py" />
+        <option value="$PROJECT_DIR$/common/__init__.py" />
+        <option value="$PROJECT_DIR$/case/__init__.py" />
+        <option value="$PROJECT_DIR$/case/loginC.py" />
+        <option value="$PROJECT_DIR$/case/loginblog.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/case/test_04_会员读取接口.py" />
+        <option value="$PROJECT_DIR$/case/test_05_会员写入接口.py" />
+        <option value="$PROJECT_DIR$/case/test_06_会员优惠卷列表查询.py" />
+        <option value="$PROJECT_DIR$/common/qymql.py" />
+        <option value="$PROJECT_DIR$/case/test_02_会员查询接口.py" />
+        <option value="$PROJECT_DIR$/case/test_01.py" />
+        <option value="$PROJECT_DIR$/case/test.py" />
+        <option value="$PROJECT_DIR$/common/tokenfile.py" />
+        <option value="$PROJECT_DIR$/case/test_03_会员更新接口.py" />
+        <option value="$PROJECT_DIR$/case/test_07_商户优惠券表查询接口.py" />
+        <option value="$PROJECT_DIR$/case/test_12_createOrderInfo.py" />
+        <option value="$PROJECT_DIR$/case/test_14_orderRead.py" />
+        <option value="$PROJECT_DIR$/run_main.py" />
+        <option value="$PROJECT_DIR$/case/test_02.py" />
+        <option value="$PROJECT_DIR$/case/test_03.py" />
+        <option value="$PROJECT_DIR$/case/test_04.py" />
+        <option value="$PROJECT_DIR$/case/test_06_CouponListByPhone.py" />
+        <option value="$PROJECT_DIR$/case/test_07.py" />
+        <option value="$PROJECT_DIR$/case/test_08.py" />
+        <option value="$PROJECT_DIR$/case/test_11.py" />
+        <option value="$PROJECT_DIR$/case/test_13_orderCencel.py" />
+        <option value="$PROJECT_DIR$/common/mql_member" />
+        <option value="$PROJECT_DIR$/common/mysqlgood.py" />
+        <option value="$PROJECT_DIR$/case/test_15_commoditySynchronization.py" />
+        <option value="$PROJECT_DIR$/case/test_05.py" />
+        <option value="$PROJECT_DIR$/case/test_10.py" />
+        <option value="$PROJECT_DIR$/case/test_09.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="23" />
+    <option name="y" value="6" />
+    <option name="width" value="1318" />
+    <option name="height" value="867" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cecook_maqiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cecook_maqiang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cecook_maqiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cecook_maqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cecook_maqiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cecook_maqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cecook_maqiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cecook_maqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cecook_maqiang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cecook_maqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="cecook_maqiang" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_09.py">
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="cecook_maqiang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cecook_maqiang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_09.standardWriteoff.test_standardWriteoff_ok&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cecook_maqiang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_15_commoditySynchronization.commoditySynchronization" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cecook_maqiang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_15_commoditySynchronization.commoditySynchronization&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_09.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cecook_maqiang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_09.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_15_commoditySynchronization.commoditySynchronization" />
+      <item itemvalue="Python.run_main" />
+      <item itemvalue="Python tests.Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" />
+      <item itemvalue="Python tests.Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" />
+      <item itemvalue="Python tests.Unittests in test_09.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_09.py" />
+        <item itemvalue="Python tests.Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" />
+        <item itemvalue="Python tests.Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" />
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python tests.Unittests for test_15_commoditySynchronization.commoditySynchronization" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fade0d9c-41e7-465a-b0d1-5c75a1c59fd5" name="Default Changelist" comment="" />
+      <created>1535435448814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535435448814</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_ok - 2018.09.13 at 14h 29m 27s.xml">
+      <configuration name="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 14h 29m 40s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 14h 30m 09s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_ok - 2018.09.13 at 14h 30m 15s.xml">
+      <configuration name="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 14h 30m 46s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 15h 12m 18s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 15h 12m 28s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_10_standardReverseWriteoff_test_standardReverseWriteoff_ok - 2018.09.13 at 15h 39m 34s.xml">
+      <configuration name="Unittests for test_10.standardReverseWriteoff.test_standardReverseWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_09_standardWriteoff_test_standardWriteoff_ok - 2018.09.13 at 15h 39m 39s.xml">
+      <configuration name="Unittests for test_09.standardWriteoff.test_standardWriteoff_ok" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_09_py - 2018.09.13 at 15h 39m 51s.xml">
+      <configuration name="Unittests in test_09.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="23" y="6" width="1318" height="867" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.272655" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33242506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38858697" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26868045" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33242506" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38858697" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/test_06_CouponListByPhone.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/loginC.py" />
+    <entry file="file://$PROJECT_DIR$/case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HTMLTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/case/loginblog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#E:/Users/maqia/PycharmProjects/cecook_maqiang/run_main.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#E:/Users/maqia/PycharmProjects/cecook_maqiang/run_main.py</OriginalElement>
+          <nodes>
+            <node x="" y="">unittest.case.TestCase</node>
+            <node x="" y="">run_main.Main</node>
+            <node x="" y="">object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="79.0" y="97.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/cfg.int">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="13" column="81" selection-start-line="13" selection-start-column="81" selection-end-line="13" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Programs/Python/Python37-32/Lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4868">
+          <caret line="276" column="23" selection-start-line="276" selection-start-column="19" selection-end-line="276" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_02_会员查询接口.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_03_会员更新接口.py" />
+    <entry file="file://$PROJECT_DIR$/case/test.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_04_会员读取接口.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_05_会员写入接口.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_06_会员优惠卷列表查询.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_07_商户优惠券表查询接口.py" />
+    <entry file="file://$PROJECT_DIR$/case/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" selection-start-line="49" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/tokenfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_14_orderRead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_13_orderCencel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="71" column="59" selection-start-line="71" selection-start-column="59" selection-end-line="71" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="453" column="73" selection-start-line="453" selection-start-column="19" selection-end-line="453" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/qymql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_15_commoditySynchronization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mysqlgood.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/mqlmember.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/_jb_unittest_runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="50" />
+          <folding>
+            <element signature="e#25#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_06_CouponListByPhone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="30" column="52" lean-forward="true" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#81#90#0" expanded="true" />
+            <marker date="1536659236594" expanded="true" signature="239:240" ph="..." />
+            <marker date="1536659236594" expanded="true" signature="291:292" ph="..." />
+            <marker date="1536659236594" expanded="true" signature="734:735" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="71" column="61" selection-start-line="71" selection-start-column="61" selection-end-line="71" selection-end-column="61" />
+          <folding>
+            <element signature="e#47#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_12_createOrderInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/test_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="140" column="39" lean-forward="true" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
+          <folding>
+            <element signature="e#369#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

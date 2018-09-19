@@ -1,0 +1,7 @@
+[email]
+
+smtp_server = smtp.300.cn
+port =25
+sender = maqiang@300.cn
+
+receiver = maqiang@300.cn
